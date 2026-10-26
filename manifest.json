@@ -1,0 +1,13 @@
+{
+  "name": "Blockhausen",
+  "minecraft": "26.3",
+  "loader": {
+    "type": "fabric"
+  },
+  "server": {
+    "host": "eu17-free.falixserver.net",
+    "port": 21809
+  },
+  "revision": 1,
+  "mods": []
+}
