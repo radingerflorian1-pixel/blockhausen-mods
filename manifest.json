@@ -8,7 +8,7 @@
     "host": "eu17-free.falixserver.net",
     "port": 21809
   },
-  "revision": 2,
+  "revision": 3,
   "mods": [
     {
       "id": "YL57xq9U",
@@ -30,6 +30,20 @@
       "description": "A high-performance rendering engine replacement for Minecraft, which greatly improves frame rates and reduces micro-stutter.",
       "icon": "https://cdn.modrinth.com/data/AANobbMI/295862f4724dc3f78df3447ad6072b2dcd3ef0c9_96.webp",
       "side": "client"
+    },
+    {
+      "id": "mOgUt4GM",
+      "name": "Mod Menu",
+      "description": "Adds a mod menu to view the list of mods you have installed.",
+      "icon": "https://cdn.modrinth.com/data/mOgUt4GM/5a20ed1450a0e1e79a1fe04e61bb4e5878bf1d20.png",
+      "side": "client"
+    },
+    {
+      "id": "9s6osm5g",
+      "name": "Cloth Config API",
+      "description": "Configuration Library for Minecraft Mods",
+      "icon": "https://cdn.modrinth.com/data/9s6osm5g/ed8a2316cbb6f4fc5f510e8e13a59a85cbbbff4d_96.webp",
+      "side": "both"
     }
   ]
 }
